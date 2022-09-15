@@ -18,9 +18,6 @@ prefer_datetime_locale:
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
 
-# plugins
-plugins: [-jekyll-scholar]
-
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
