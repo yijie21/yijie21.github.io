@@ -5,6 +5,8 @@ date: 2022-09-16 10:00:00 +0800
 tags: [Experience]
 ---
 
+Important guidlines for experiment design.
+
 ## Ablation Study Provides Important Guidelines
 
 ![Desktop View](/assets/fig/exp_ablation.png)
