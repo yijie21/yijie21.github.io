@@ -9,7 +9,7 @@ Important guidlines for experiment design.
 
 ## Ablation Study Provides Important Guidelines
 
-![Desktop View](/assets/fig/exp_ablation.png)
+![Desktop View](/assets/img/paper/exp_ablation.png)
 _An ablation study_
 
 The ablation study provides important clues of which strategy is more effective, which is an efficient way for us to choose which strategy to use forst to get better results.
