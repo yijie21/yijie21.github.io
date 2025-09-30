@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year PhD student at Tandon School of Engineering of New York University, working with [Prof. Yi Fang](https://scholar.google.com/citations?user=j-cyhzwAAAAJ&hl=en). Before this, I got my Master's degree in Data Science and Information Technology at TBSI, Tsinghua University, supervised by [Prof. Lu Fang](https://www.luvision.net/). And I got my Bachelor's degree at Computer School of Wuhan University.
 
-My research interests are robotics, 3D vision and world model, especially:
+**My research interests are robotics, 3D vision and world model**, especially:
 
 - Intelligent embodied robot navigation with various goals.
 - Leverage 3D information (point cloud, gaussian splatting) to help robots have better performance.
