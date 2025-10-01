@@ -1,3 +1,5 @@
+教程在这里：https://blog.csdn.net/qd1813100174/article/details/128604858
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 

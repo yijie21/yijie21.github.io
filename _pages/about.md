@@ -61,8 +61,10 @@ Publications
     	<div><font size="4"><b>TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model</b></font></div>
     	<span><font size="3"><b>Yijie Deng</b>, Lei Han, Lu Fang</font></span>
         <div><span><font size="3">(IEEE TVCG)</font></span> </div>
-        <div> [<a href="https://ieeexplore.ieee.org/abstract/document/11134500">Paper</a>]</div>
-        <div> [<a href="https://arxiv.org/abs/2506.09909">Arxiv</a>]</div>
+        <div> 
+          [<a href="https://ieeexplore.ieee.org/abstract/document/11134500">Paper</a>] 
+          [<a href="https://arxiv.org/abs/2506.09909">Arxiv</a>]
+        </div>
     </td>
   </tr>
 
