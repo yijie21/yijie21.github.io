@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dyj.jpg"
+  avatar           : "dyj.png"
   name             : "Yijie Deng"
   pronouns         : # example: "she/her"  
   bio              : "PhD of Computer Science and Robotics"
