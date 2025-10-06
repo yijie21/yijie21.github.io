@@ -145,7 +145,7 @@ October 2022 - April 2023
 
 - **B.Eng., Computer Science**
 
-  September 2017 - June 2021, Wuha University, China.
+  September 2017 - June 2021, Wuhan University, China.
 
 
 
