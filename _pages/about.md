@@ -73,7 +73,7 @@ Publications
     <td>            
     	<div><font size="4"><b>RealLiFe: Real-Time Light Field Reconstruction via Hierarchical Sparse Gradient Descent</b></font></div>
     	<span><font size="3"><b>Yijie Deng</b>*, <b>Lei Han</b>*, Tianpeng Lin, Lin Li, Jinzhi Zhang, Lu Fang</font></span>
-        <div><span><font size="3">(ArXiv 2025)</font></span> </div>
+        <div><span><font size="3">(IEEE TPAMI)</font></span> </div>
         <div> 
           [<a href="https://ieeexplore.ieee.org/document/11369879">Paper</a>] 
           [<a href="https://arxiv.org/abs/2307.03017">ArXiv</a>]
