@@ -39,7 +39,7 @@ Publications
     <td valign="top"> <img src="../images/gauscoremap.png" alt="Drawing" style="width: 300px;"/> </td>
     <td>            
     	<div><font size="4"><b>Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation</b></font></div>
-   		<span><font size="3"><b>Yijie Deng</b>*, <b>Shuaihang Yuan</b>*, Geeta Chandra Raju Bethala, Anthony Tzes, Yu-Shen Liu</font></span>
+   		<span><font size="3"><b>Yijie Deng</b>*, <b>Shuaihang Yuan</b>*, Geeta Chandra Raju Bethala, Anthony Tzes, Yu-Shen Liu, Yi Fang</font></span>
         <div><span><font size="3">(ArXiv 2025)</font></span> </div>
         <div> [<a href="https://arxiv.org/abs/2506.07338">ArXiv</a>]</div>
     </td>
