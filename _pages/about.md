@@ -39,10 +39,12 @@ Publications
     <td valign="top"> <img src="../images/anyimagenav.png" alt="Drawing" style="width: 300px;"/> </td>
     <td>            
     	<div><font size="4"><b>AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation</b></font></div>
-   		<span><font size="3"><b>Yijie Deng</b>, <b>Shuaihang Yuan</b>, Yi Fang</font></span>
+   		<span><font size="3"><b>Yijie Deng</b>, Shuaihang Yuan, Yi Fang</font></span>
         <div><span><font size="3">(ArXiv 2026)</font></span> </div>
-        <div> [<a href="https://arxiv.org/abs/2604.05351">ArXiv</a>]</div>
-        <div> [<a href="https://yijie21.github.io/ain/">Project Page</a>]</div>
+        <div> 
+          [<a href="https://arxiv.org/abs/2604.05351">ArXiv</a>]
+          [<a href="https://yijie21.github.io/ain/">Project Page</a>]
+        </div>
     </td>
   </tr>
 
@@ -70,7 +72,7 @@ Publications
     <td valign="top"> <img src="../images/transgi.png" alt="Drawing" style="width: 300px;"/> </td>
     <td>            
     	<div><font size="4"><b>TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model</b></font></div>
-    	<span><font size="3"><b>Yijie Deng</b>, Lei Han, Lu Fang</font></span>
+    	<span><font size="3"><b>Yijie Deng</b>*, <b>Lei Han</b>*, Lu Fang</font></span>
         <div><span><font size="3">(IEEE TVCG)</font></span> </div>
         <div> 
           [<a href="https://ieeexplore.ieee.org/abstract/document/11134500">Paper</a>] 
