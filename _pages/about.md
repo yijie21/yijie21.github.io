@@ -35,6 +35,17 @@ News
 Publications
 ======
 <table>
+  <tr>
+    <td valign="top"> <img src="../images/anyimagenav.png" alt="Drawing" style="width: 300px;"/> </td>
+    <td>            
+    	<div><font size="4"><b>AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation</b></font></div>
+   		<span><font size="3"><b>Yijie Deng</b>, <b>Shuaihang Yuan</b>, Yi Fang</font></span>
+        <div><span><font size="3">(ArXiv 2026)</font></span> </div>
+        <div> [<a href="https://arxiv.org/abs/2604.05351">ArXiv</a>]</div>
+        <div> [<a href="https://yijie21.github.io/ain/">Project Page</a>]</div>
+    </td>
+  </tr>
+
 	<tr>
     <td valign="top"> <img src="../images/gauscoremap.png" alt="Drawing" style="width: 300px;"/> </td>
     <td>            
