@@ -11,6 +11,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
     
-  - title: "CV"
-    url: /assets/updated_cv_2025_9_30.pdf
+  - title: "Resume_EN"
+    url: /assets/yijie_resume.pdf
+  - title: "Resume_CN"
+    url: /assets/yijie_resume_cn.pdf
 
